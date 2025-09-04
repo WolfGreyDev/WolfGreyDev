@@ -4,7 +4,7 @@ And yes, PHP will never die.
 
 ---
 
-### 🚀 What I'm Focused On
+### What I'm Focused On
 
 * **Giving Back:** Actively seeking open-source projects, especially in the Laravel/PHP/Shopify ecosystem, to contribute to and stop leaching off the community that has given me so much.
 * **New Opportunities:** Open to full-time roles where I can architect, build, and lead impactful business-centric solutions.
@@ -12,7 +12,7 @@ And yes, PHP will never die.
 
 ---
 
-### 🏆 Milestones & Proud Moments
+### Milestones & Proud Moments
 
 I specialize in building industry-first solutions that drive growth and set new standards.
 
